@@ -25,5 +25,5 @@ Free, open-source tools I built to grow consumer apps and my business. Used at [
 ## Find me
 
 - [annayal.com](https://annayal.com) · [blog](https://annayal.com/blog/) · [The App Sauce pod](https://annayal.com/appsauce/)
-- [Agniverse](https://agniverse.co) · [Handler](https://gethandler.ai) · [Flamme](https://flamme.app) (acquired by Arya)
+- [Agniverse](https://agniverse.co) · [Handler](https://gethandler.ai) · [Flamme](https://flamme.app) (acquired)
 - [X](https://x.com/consumerxai) · [LinkedIn](https://www.linkedin.com/in/annayal) · [YouTube](https://www.youtube.com/@consumerxai) · [Instagram](https://www.instagram.com/consumerxai/)
