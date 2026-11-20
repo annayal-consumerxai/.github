@@ -1,4 +1,4 @@
-# An Nayal · ConsumerXAI
+# An Nayal · consumerxai
 
 Free, open-source tools I built to grow consumer apps and my business. Used at [Agniverse](https://agniverse.co) and [Handler](https://gethandler.ai).
 
